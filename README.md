@@ -13,7 +13,7 @@ New York City, NY<br/>
 
 #### Riverine Modeling: Probabilistic Approaches
 
-[Notebooks](https://github.com/tmiesse/adcirc_prod) created by [STARR II](http://www.starr-team.com/starr/Pages/default.aspx) (Strategic Alliance for Risk Reduction) in support of FEMA.
+[Notebooks]() created by [STARR II](http://www.starr-team.com/starr/Pages/default.aspx) (Strategic Alliance for Risk Reduction) in support of FEMA.
 
  - Monte Carlo Approaches
  - Cloud Computing 
@@ -38,7 +38,7 @@ New York City, NY<br/>
  
 #### GIS Integration: Mapping & Analysis
 
-[Notebooks](https://github.com/tmiesse/adcirc_prod) for working with vector and raster datasets common in flood risk analysis.
+[Notebooks]() for working with vector and raster datasets common in flood risk analysis.
 
  - Vector & Raster Datasets
  - Batch Processing with [GDAL](https://www.gdal.org/)
