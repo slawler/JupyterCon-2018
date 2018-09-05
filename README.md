@@ -27,27 +27,28 @@ New York City, NY<br/>
  
 #### Rationale for this talk  
  1. (Proprietary) Tool diversity 
- - Cost
- - Learning curve
- - Silos
- - Conceptualizing Workflows- technical & non-technical 
- - Reproducibility & Traceability
- - Copy/Paste
- - Standard Models 
- - Interactivity
- - Quality Control
- - Batch processing
+ 2. Cost
+ 3. Learning curve
+ 4. Silos
+ 5. Conceptualizing Workflows- technical & non-technical 
+ 6. Reproducibility & Traceability
+ 7. Copy/Paste
+ 8. Standard Models 
+ 9. Interactivity
+ 10. Quality Control
+ 11. Batch processing
+ 
 ---
 
 #### Riverine Modeling: Proven Models, New Approaches
 
 Notebooks created by [STARR II](http://www.starr-team.com/starr/Pages/default.aspx) (Strategic Alliance for Risk Reduction) in support of FEMA.
 
- - [Monte Carlo Approaches (html)](Pluvial_Development.html) *Conceptualizing Workflows*
+ - [Monte Carlo Approaches (html)](https://github.com/slawler/JupyterCon-2018/blob/master/Pluvial_Development.html) *Conceptualizing Workflows*
  - [USGS API](GageExplorer.ipynb)
   *Copy/Paste*
- - [Model Development (html)](BreachTool.html) *Standard Models, Reproducibility & Traceability* 
- - [Data Visualization (html)](HydrographDeveloper.html) *Interactivity*
+ - [Model Development (html)](https://github.com/slawler/JupyterCon-2018/blob/master/BreachTool.html) *Standard Models, Reproducibility & Traceability* 
+ - [Data Visualization (html)](https://github.com/slawler/JupyterCon-2018/blob/master/HydrographDeveloper.html) *Interactivity*
 
 ---
 
