@@ -44,11 +44,11 @@ New York City, NY<br/>
 
 Notebooks created by [STARR II](http://www.starr-team.com/starr/Pages/default.aspx) (Strategic Alliance for Risk Reduction) in support of FEMA.
 
- - [Monte Carlo Approaches (html)](https://github.com/slawler/JupyterCon-2018/blob/master/Pluvial_Development.html) *Conceptualizing Workflows*
+ - [Monte Carlo Approaches (html)](Pluvial_Development.ipynb) *Conceptualizing Workflows*
  - [USGS API](GageExplorer.ipynb)
   *Copy/Paste*
- - [Model Development (html)](https://github.com/slawler/JupyterCon-2018/blob/master/BreachTool.html) *Standard Models, Reproducibility & Traceability* 
- - [Data Visualization (html)](https://github.com/slawler/JupyterCon-2018/blob/master/HydrographDeveloper.html) *Interactivity*
+ - [Model Development (html)](https://htmlpreview.github.io/?https://github.com/slawler/JupyterCon-2018/blob/master/BreachTool.html) *Standard Models, Reproducibility & Traceability* 
+ - [Data Visualization (html)](https://htmlpreview.github.io/?https://github.com/slawler/JupyterCon-2018/blob/master/HydrographDeveloper.html) *Interactivity*
 
 ---
 
