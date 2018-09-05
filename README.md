@@ -7,20 +7,20 @@ New York City, NY<br/>
 ![](images/lab_demo.gif)
 ---
 
- <img class="one" src="images/dewberry.png" width="200" height="200"><br>
+![](images/dewberry.png)
  [__Resilience Solutions Group__](http://www.dewberry.com/)
  
  ---
 
 ### Our Clients
-<img src="images/fema.png" width="200" height="300" >
 
-<img src="images/usace.jpeg" width="150" height="220" alt="" hspace="20">
+![](images/fema.png)
 
-<img src="images/noaa.png" width="130" height="180" alt="" hspace="20">
+![](images/usace.jpeg)
 
-<img src="images/usgs.png" width="160" height="300">
+![](images/noaa.png)
 
+![](images/usgs.png)
 ---
 
 ## Contents 
