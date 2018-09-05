@@ -27,9 +27,9 @@ New York City, NY<br/>
  
 #### Rationale for this talk  
  1. (Proprietary) Tool diversity 
-  - Cost
-  - Learning curve
-  - Silos
+ - Cost
+ - Learning curve
+ - Silos
  - Conceptualizing Workflows- technical & non-technical 
  - Reproducibility & Traceability
  - Copy/Paste
